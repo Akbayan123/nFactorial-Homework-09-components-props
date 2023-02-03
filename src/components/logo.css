@@ -1,0 +1,21 @@
+.logo {
+    display: flex;
+    flex-direction: column;
+    margin-left: 330px;
+    width: 80%;
+}
+.logo p {
+    display: flex;
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 22px;
+}
+.logo h1 {
+    display: flex;
+    margin-top: 100px;
+    font-family: 'Kanit';
+    font-weight: 500;
+    font-size: 57px;
+}

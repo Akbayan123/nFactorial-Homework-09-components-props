@@ -1,0 +1,11 @@
+.footer-text {
+    display: flex;
+    flex-direction: column;
+    color: rgba(8, 30, 52, 1);
+    width: 80%;
+    margin: auto;
+    margin-top: 800px;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 21px;
+}
